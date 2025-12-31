@@ -1,0 +1,5 @@
+{
+  "name": "Auto-CA — Autonomous Accountant Agent",
+  "description": "An AI-powered accounting agent that extracts invoice data, classifies expenses, generates journal entries, and reconciles bank statements using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
